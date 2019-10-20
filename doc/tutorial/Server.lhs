@@ -93,6 +93,7 @@ users1 :: [User]
 users1 =
   [ User "Isaac Newton"    372 "isaac@newton.co.uk" (fromGregorian 1683  3 1)
   , User "Albert Einstein" 136 "ae@mc2.org"         (fromGregorian 1905 12 1)
+  , User "Motohiro Yakura" 106 "motohiro686@gmail.com" (fromGregorian 1974 9 14)
   ]
 ```
 
